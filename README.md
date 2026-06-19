@@ -1,4 +1,4 @@
-# Documentación Técnica — VPN Site-to-Site IPSec IKEv2 (Route-Based)
+# VPN Site-to-Site IPSec IKEv2 (Route-Based)
 
 **Estudiante:** Junior Javier Santos Perez
 **Matrícula:** 2024-1599
